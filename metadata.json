@@ -1,0 +1,6 @@
+{
+  "name": "T-Studios",
+  "description": "Premium video editing portfolio, course hosting, and global booking system with a sleek minimalist dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
